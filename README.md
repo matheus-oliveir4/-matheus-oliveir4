@@ -1,10 +1,3 @@
-### Olá! Meu nome é Matheus Oliveira!! 👋
-
-Atualmente atuo como **Analista de Dados e BI**, após 4 anos de expriência no setor eólico, nas áreas de controle da qualidade.
-Aqui você verá um panorama de todas as tecnologias domino para realizar meus projetos. 
-Você encontrara também trabalhos que englobam essas tecnologias.   
-
-### Seja bem vindo!!!😄
 
  *Para mais Informações Profissionais, acesse meu LINKEDIN abaixo:* <br> <br>
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattoli68/) <br>
